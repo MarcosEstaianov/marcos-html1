@@ -1,5 +1,4 @@
 # marcos-html1
-
 <head>
       <link rel= "stylesheet" href="styles.css" />
 
@@ -45,6 +44,20 @@
 
 
 
+
+
+
+
+
+
+
+body{
+color:purple;
+
+
+
+
+}
 
 
 
